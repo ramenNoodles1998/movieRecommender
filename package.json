@@ -1,0 +1,19 @@
+{
+  "name": "movierecommendor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "moviesRecommendForUser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramenNoodles1998/movieRecommender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramenNoodles1998/movieRecommender/issues"
+  },
+  "homepage": "https://github.com/ramenNoodles1998/movieRecommender#readme"
+}
