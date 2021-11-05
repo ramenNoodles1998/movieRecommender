@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ramenNoodles1998/movieRecommender/issues"
   },
-  "homepage": "https://github.com/ramenNoodles1998/movieRecommender#readme"
+  "homepage": "https://github.com/ramenNoodles1998/movieRecommender#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "csv-reader": "^1.0.8",
+    "superagent": "^6.1.0",
+    "tar": "^6.1.11"
+  }
 }

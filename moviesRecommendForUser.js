@@ -1,10 +1,6 @@
 let data = require('./data.json');
 let person1
-/**
- * How I tested I made my own user 611
- * and tried to make comedies low and action movies high
- * to see if I would get action movies
- */
+
 (function main(){
     let args = process.argv.splice(2)
     //testing for if args was passed and is a number
