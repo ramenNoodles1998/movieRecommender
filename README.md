@@ -1,4 +1,4 @@
-# movieRecommender
+# Movie Recommender Command Line App
 <h1>Start with running</h1> <br>
 ```node convertCsv2Json``` <br>
 <h1>Then Add yourself into data.json that is created. </h1><br>
