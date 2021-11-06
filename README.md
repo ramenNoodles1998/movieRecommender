@@ -27,7 +27,7 @@ Then Add yourself into data.json that is created. <br>
    ``` 
    
    Remember your userId and run the command(this example the userId is 611): <br>
-   ``` node moviesRecommendForUser <userId>``` 
+   ``` node moviesRecommendForUser <userId>``` <br>
    then your recommendations should come up.
    ```
     Life Is Beautiful (La Vita è bella) (1997): 5.0
