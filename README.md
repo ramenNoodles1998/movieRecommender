@@ -1,8 +1,8 @@
 # Movie Recommender Command Line App
 <h2>Start with running</h2> <br>
-```node convertCsv2Json``` <br>
+``` node convertCsv2Json ``` <br>
 <h2>Then Add yourself into data.json that is created. </h2><br>
-```{
+``` {
     "userId": 611,
     "movieId": [
       "Toy Story (1995)",
@@ -28,7 +28,7 @@
    
   <h2>Remember your userId and run the command(this example the userId is 611): </h2> <br>
   
-   ``` node moviesRecommendForUser <userId>``` <br>
+   ``` node moviesRecommendForUser <userId> ``` <br>
    
    <h2>Then your recommendations should come up like the following.</h2>
    ```
