@@ -1,7 +1,7 @@
 # Movie Recommender Command Line App
-<h1>Start with running</h1> <br>
+<h2>Start with running</h2> <br>
 ```node convertCsv2Json``` <br>
-<h1>Then Add yourself into data.json that is created. </h1><br>
+<h2>Then Add yourself into data.json that is created. </h2><br>
 ```{
     "userId": 611,
     "movieId": [
@@ -26,11 +26,11 @@
    }
    ``` 
    
-  <h1>Remember your userId and run the command(this example the userId is 611): </h1> <br>
+  <h2>Remember your userId and run the command(this example the userId is 611): </h2> <br>
   
    ``` node moviesRecommendForUser <userId>``` <br>
    
-   <h1>Then your recommendations should come up like the following.</h1>
+   <h2>Then your recommendations should come up like the following.</h2>
    ```
     Life Is Beautiful (La Vita è bella) (1997): 5.0
     Green Mile, The (1999): 5.0
