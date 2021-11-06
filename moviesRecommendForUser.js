@@ -6,7 +6,7 @@ let person1
     //testing for if args was passed and is a number
     if(args.length > 0 && !isNaN(args[0])){
         //testing that number is in the range of users
-        if(Number(args[0]) > 0 && Number(args[0]) < 611) {
+        if(Number(args[0]) > 0 && Number(args[0]) < 612) {
             for(let d of data) {
                 //finds the user from the command prompt
                 if(d.userId === Number(args[0])) {
@@ -16,7 +16,7 @@ let person1
             predictRatings()
         }
         else {
-            console.log('Number must be between 1-610')
+            console.log('Number must be between 1-611')
         }
     }
     else {
@@ -137,7 +137,7 @@ function euclideanSimilarity(personSim1, personSim2) {
         }  
     }
     let distance = Math.sqrt(sumSquares)
-    //like in coding train to handle 0's and make it smaller number mor similar
+    
     return 1/(1+distance)
 }
 
