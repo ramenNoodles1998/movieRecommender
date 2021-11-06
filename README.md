@@ -1,7 +1,7 @@
 # movieRecommender
-Start with running <br>
+#Start with running <br>
 ```node convertCsv2Json``` <br>
-Then Add yourself into data.json that is created. <br>
+#Then Add yourself into data.json that is created. <br>
 ```{
     "userId": 611,
     "movieId": [
@@ -26,9 +26,11 @@ Then Add yourself into data.json that is created. <br>
    }
    ``` 
    
-   Remember your userId and run the command(this example the userId is 611): <br>
+  # Remember your userId and run the command(this example the userId is 611): <br>
+  
    ``` node moviesRecommendForUser <userId>``` <br>
-   then your recommendations should come up.
+   
+   #Then your recommendations should come up like the following.
    ```
     Life Is Beautiful (La Vita è bella) (1997): 5.0
     Green Mile, The (1999): 5.0
