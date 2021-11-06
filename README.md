@@ -1,7 +1,10 @@
 # Movie Recommender Command Line App
 <h2>Start with running</h2> <br>
+
 ``` node convertCsv2Json ``` <br>
+
 <h2>Then Add yourself into data.json that is created. </h2><br>
+
 ``` {
     "userId": 611,
     "movieId": [
@@ -31,6 +34,7 @@
    ``` node moviesRecommendForUser <userId> ``` <br>
    
    <h2>Then your recommendations should come up like the following.</h2>
+   
    ```
     Life Is Beautiful (La Vita è bella) (1997): 5.0
     Green Mile, The (1999): 5.0
